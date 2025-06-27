@@ -1,1 +1,1 @@
-
+A high-performance, structured, and extensible Python logging library for modern applications. pyLoggerX offers advanced log formatting, context-aware logging, file/stream handlers, log rotation, and JSON support — all with minimal setup. Ideal for developers building scalable, production-ready systems in Python.
