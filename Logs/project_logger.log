@@ -1,0 +1,10 @@
+2025-07-01 18:23:18 | DEBUG | demo_logger | demo:9 | DEBUG: Useful for diagnosing problems, used mainly during development.
+2025-07-01 18:23:18 | INFO | demo_logger | demo:10 | INFO: General operational messages, confirming things are working as expected.
+2025-07-01 18:23:18 | WARNING | demo_logger | demo:11 | WARNING: Indicates something unexpected, or potential issue in the future.
+2025-07-01 18:23:18 | ERROR | demo_logger | demo:12 | ERROR: A more serious problem, something failed.
+2025-07-01 18:23:18 | CRITICAL | demo_logger | demo:13 | CRITICAL: A serious error, indicating the program itself may not be able to continue.
+2025-07-01 18:23:18 | ERROR | demo_logger | demo:18 | EXCEPTION: Captures the stack trace along with the error message.
+Traceback (most recent call last):
+  File "D:\GPT\New approach\20October_restart_working\Approch-I\RAG\OmNamahShivaay\loggerx\demo.py", line 16, in demonstrate_logging_levels
+    value = 10 / 0
+ZeroDivisionError: division by zero
